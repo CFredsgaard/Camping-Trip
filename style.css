@@ -1,0 +1,21 @@
+header{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 1vh 0vw; 
+}
+
+img{
+
+}
+
+.info{
+    background-color: blueviolet;
+}
+
+.welcome_text{
+    background-color: coral;
+}
+
+footer{
+    background-color: darkcyan;
+}
