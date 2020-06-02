@@ -1,21 +1,36 @@
 header{
     background-color: aquamarine;
     text-align: center;
-    padding: 1vh 0vw; 
+    padding: 1vh 0vw;
 }
 
 img{
-
+    width: auto;
+    border-radius: 5%;
+    clear: both;
 }
 
 .info{
     background-color: blueviolet;
+    padding: 2vh;
+    padding-bottom: ;
+    margin: 10px 10px 10px 0px;
+    position: absolute;
+    bottom: 10px;
+    
+    
+    
 }
 
 .welcome_text{
     background-color: coral;
+    float: right;
+    margin: 10px 0px 10px 10px;
+    position: relative;
+    
 }
 
 footer{
     background-color: darkcyan;
+    clear: both;
 }
